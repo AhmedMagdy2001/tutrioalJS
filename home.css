@@ -1,0 +1,17 @@
+.banner {
+    height: 100vh;
+    min-height: 500px;
+    opacity: 75%;
+    background-image: url('banner2-img.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+ .banner-txt{
+     font-style: inherit;
+     font-size: 25px;
+     margin-top: 20em;
+
+     
+ } 
